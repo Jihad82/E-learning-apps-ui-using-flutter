@@ -2,8 +2,9 @@
 
 Designing an attractive and intuitive E-learning apps Ui Screen layout
 ## ScreenShot
-![localhost_55388_(iPhone X)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/1bf4e2e2-c422-48e8-ba69-d94dc7dbcadd)
-![localhost_55388_(iPhone X) (1)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/80bd1bdf-0382-4dbf-8c9d-31a7330f1971)
+![localhost_55388_(iPhone X)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/1dbe6ca4-de5f-442f-a8f6-8953845e0ac9)
+![localhost_55388_(iPhone X) (1)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/04f4c4e8-add6-424e-b68e-019753d32d39)
+
 
 ## Getting Started
 
