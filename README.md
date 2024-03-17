@@ -1,6 +1,9 @@
-# elearningapp
+# E-learning apps Ui Screen
 
-A new Flutter project.
+Designing an attractive and intuitive E-learning apps Ui Screen layout
+## ScreenShot
+![localhost_55388_(iPhone X)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/1bf4e2e2-c422-48e8-ba69-d94dc7dbcadd)
+![localhost_55388_(iPhone X) (1)](https://github.com/Jihad82/E-learning-apps-ui-using-flutter/assets/91656309/80bd1bdf-0382-4dbf-8c9d-31a7330f1971)
 
 ## Getting Started
 
